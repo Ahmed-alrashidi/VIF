@@ -5,8 +5,6 @@
 [![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square)](#)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed-alrashidi/VIF/blob/main/VIF_Demo.ipynb)
 
-> **Official Finalist Project | Absher Tuwaiq Hackathon 2025**
-
 **Visual Identity Fingerprint (VIF)** is a cybersecurity system designed to combat document leakage. By leveraging **Constructive Watermarking** and **Computer Vision**, VIF transforms an organization's official logo into a covert, intelligent tracking tool containing verified metadata.
 
 ---
@@ -103,5 +101,4 @@ See the [LICENSE](LICENSE) file for full terms.
 ---
 <div align="center">
   <sub>Made with ❤️ in Buraydah, Al-Qassim | KSA 🌴</sub><br>
-  <sub>Absher Tuwaiq Hackathon 2025</sub>
 </div>
